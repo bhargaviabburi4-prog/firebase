@@ -1,0 +1,8 @@
+{
+  "name": "Firebase Auth & Member Portal",
+  "description": "Secure user registration, authentication, profile management, and dashboard powered by Firebase Auth and Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
